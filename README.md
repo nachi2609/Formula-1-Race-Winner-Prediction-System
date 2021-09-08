@@ -15,8 +15,9 @@ Calulating the likelihood that a race driver will win the grand prix using Neura
   •	Once the collection .csv are created we will perform the modeling with following scripts and run notebook files in given order: \
       1.	Data Modeling 1.ipnyb \
       2.	Data Modeling 2.ipnyb
-  •	All .csv files are required for analysis.
-  •	“.ipnyb” files cover entire code base
+
+####	All .csv files are required for analysis.
+####	“.ipnyb” files cover entire code base
 
 Our Alogrithm predicts 14 out of 21 races of the season.
 
